@@ -1,0 +1,1 @@
+A repo to test my implementation of https://github.com/renovatebot/renovate/discussions/31167
