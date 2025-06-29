@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sindresorhus/is": "^6.0.1",
+    "lodash": "^4.2.0"
+  },
+  "devDependencies": {
+    "newrelic": "^10.3.1"
+  }
+}
