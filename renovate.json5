@@ -7,11 +7,11 @@
       matchDepTypes: [
         'devDependencies'
       ],
-      dependencyDashboardCategory: "Development Dependencies",
+      dependencyDashboardCategory: "\uD83D\uDC3B Development Dependencies",
     },
     {
       matchUpdateTypes: "major",
-      dependencyDashboardCategory: "Major Updates",
+      dependencyDashboardCategory: "\uD83C\uDF3F Major Updates",
     }
   ],
   separateMinorPatch: true
