@@ -13,5 +13,6 @@
       matchUpdateTypes: "major",
       dependencyDashboardCategory: "Major Updates",
     }
-  ]
+  ],
+  separateMinorPatch: true
 }
