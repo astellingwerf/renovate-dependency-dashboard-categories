@@ -5,6 +5,7 @@
   dependencyDashboardHeader: "This issue lists Renovate updates and detected dependencies. Read the [Dependency Dashboard](https://docs.renovatebot.com/key-concepts/dashboard/) docs to learn more. This specific instance is configured to demonstrate an implementation of https://github.com/renovatebot/renovate/discussions/31167.",
   lockFileMaintenance: {
     enabled: true,
+    dependencyDashboardCategory: "Maintenance",
   },
   packageRules: [
     {
