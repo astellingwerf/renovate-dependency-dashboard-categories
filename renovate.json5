@@ -7,15 +7,16 @@
     enabled: true,
     dependencyDashboardCategory: "Maintenance",
   },
-  major: {
-    dependencyDashboardCategory: ":broken_heart: Major Updates",
-  },
   packageRules: [
     {
       matchDepTypes: [
         'devDependencies'
       ],
       dependencyDashboardCategory: "\uD83D\uDC3B Development Dependencies",
+    },
+    {
+      matchUpdateTypes: "major",
+      dependencyDashboardCategory: ":broken_heart: Major Updates",
     },
   ],
   separateMinorPatch: true
